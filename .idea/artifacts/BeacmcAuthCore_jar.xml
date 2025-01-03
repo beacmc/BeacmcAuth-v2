@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BeacmcAuthCore:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BeacmcAuthCore_jar</output-path>
+    <root id="archive" name="BeacmcAuthCore.jar">
+      <element id="module-output" name="core" />
+      <element id="module-output" name="api" />
+      <element id="module-output" name="velocity" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mindrot/jbcrypt/0.4/jbcrypt-0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/md-5/bungeecord-config/1.17-R0.1-SNAPSHOT/bungeecord-config-1.17-R0.1-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/alessiodp/libby/libby-velocity/2.0.0-SNAPSHOT/libby-velocity-2.0.0-20240718.144027-10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/alessiodp/libby/libby-bungee/2.0.0-SNAPSHOT/libby-bungee-2.0.0-20240718.144027-10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/alessiodp/libby/libby-core/2.0.0-SNAPSHOT/libby-core-2.0.0-20240718.144027-10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/j256/ormlite/ormlite-jdbc/6.1/ormlite-jdbc-6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/5.0.0-alpha.14/okhttp-5.0.0-alpha.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/squareup/okio/okio-jvm/3.9.0/okio-jvm-3.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.9.23/kotlin-stdlib-1.9.23.jar" path-in-jar="/" />
+      <element id="module-output" name="bungeecord" />
+    </root>
+  </artifact>
+</component>
